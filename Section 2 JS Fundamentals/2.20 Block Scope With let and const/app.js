@@ -1,4 +1,6 @@
 // Block Scope with let and const
+// Let and const have block level scope and var has function scope.
+
 
 // Global Scope
 var  a = 1;
